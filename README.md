@@ -8,8 +8,22 @@
 Aplikasi ini dirancang khusus untuk memecahkan masalah informasi tugas yang sering hilang di grup chat kelas.
 
 * **Sentralisasi Informasi:** Semua tugas dan deadline tercatat di satu tempat.
-* **Real-Time Tracking:** meliihat teman sekelas yang sudah menyelesaikan tugas.
+* **Real-Time Tracking:** Melihat teman sekelas yang sudah menyelesaikan tugas secara instan.
 * **Offline-First:** Tetap lancar digunakan dan diakses meskipun koneksi internet tidak stabil/tidak ada.
+
+---
+
+## 📸 Screenshot Aplikasi
+<p align="center">
+  <img src="todolist%20app.jpg" width="30%" />
+  <img src="todolist%20app1.jpg" width="30%" />
+  <img src="todolist%20app2.jpg" width="30%" />
+</p>
+<p align="center">
+  <img src="todolist%20app3.jpg" width="30%" />
+  <img src="todolist%20app4.jpg" width="30%" />
+  <img src="todolist%20app5.jpg" width="30%" />
+</p>
 
 ---
 
