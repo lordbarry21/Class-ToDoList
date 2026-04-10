@@ -15,13 +15,13 @@ Aplikasi ini dirancang khusus untuk memecahkan masalah informasi tugas yang seri
 
 ## 📸 Screenshot Aplikasi
 <p align="center">
-  <img src="todolist%20app.jpg" width="30%" />
+  <img src="todolist%20app4.jpg" width="30%" />
   <img src="todolist%20app1.jpg" width="30%" />
   <img src="todolist%20app2.jpg" width="30%" />
 </p>
 <p align="center">
   <img src="todolist%20app3.jpg" width="30%" />
-  <img src="todolist%20app4.jpg" width="30%" />
+  <img src="todolist%20app.jpg" width="30%" />
   <img src="todolist%20app5.jpg" width="30%" />
 </p>
 
